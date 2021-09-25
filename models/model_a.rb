@@ -1,6 +1,5 @@
 # Declare dinosaur hash model.
 dinosaur = {
-  types: { albertosaurinae: 'gorgosaurus libratus', tyrannosaurinae: 'daspletosaurus torosus' },
   name: 'Tyrannosaurus rex',
   fossil_age: 'Cretaceous',
   num_arms: 2,
