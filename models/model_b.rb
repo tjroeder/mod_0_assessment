@@ -1,5 +1,6 @@
 # Declare developer hash model.
 developer = {
+  types: { web_dev: ['front-end', 'back-end'], construction: 'builder' },
   name: 'Tim',
   previous_occupation: 'Engineer',
   age: 30,
