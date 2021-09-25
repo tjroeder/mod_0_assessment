@@ -1,4 +1,4 @@
-# Dinosaur model hash.
+# Declare dinosaur hash model.
 dinosaur = {
   name: 'Tyrannosaurus rex',
   fossil_age: 'Cretaceous',
